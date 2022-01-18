@@ -6,6 +6,7 @@
 
 ## General Info
 This browser based web application to ...
+* Hi my name is Bo. I'm excited about this project because it's a good opportunity to collaboratively work on code.
 	
 ## Technologies
 Technologies used for this project:
